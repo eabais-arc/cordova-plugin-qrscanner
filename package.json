@@ -1,9 +1,9 @@
 {
   "name": "cordova-plugin-qrscanner-eabais-arc",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Fast, energy-efficient, highly-configurable QR code scanner.",
   "cordova": {
-    "id": "cordova-plugin-qrscanner-eabais-arc",
+    "id": "eabais-arc/cordova-plugin-qrscanner-eabais-arc",
     "platforms": [
       "ios"
     ]
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/cordova-plugin-qrscanner"
+    "url": "https://github.com/eabais-arc/cordova-plugin-qrscanner"
   },
   "keywords": [
     "cordova",
